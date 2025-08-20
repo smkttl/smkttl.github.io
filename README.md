@@ -1,2 +1,5 @@
 # smkttl.github.io
-My personal blog
+
+Hi! I'm smkttl, a full-stack developer & OIer.
+
+Welcome to my personal blog.
